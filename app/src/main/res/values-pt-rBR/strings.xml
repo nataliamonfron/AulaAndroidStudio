@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user">Nome</string>
+    <string name="terms">Eu aceito os termos e condições.</string>
+    <string name="login">Entrar</string>
+    <string name="greetingsLogin">Dados de login:</string>
+</resources>

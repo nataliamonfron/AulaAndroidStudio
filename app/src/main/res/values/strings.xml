@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="user">Name</string>
+    <string name="terms">I accept the terms and conditions.</string>
+    <string name="login">Login</string>
+    <string name="greetingsLogin">Login data:</string>
+</resources>
